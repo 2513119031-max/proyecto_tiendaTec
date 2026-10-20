@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mouse inalambrico",
+    "categoria": "Perifericos",
+    "precio": 200,
+    "descripcion": "Mouse inalambrico bien chidoris ",
+    "stock":25
+  } ,
+  {
+    "id": 2,
+    "nombre": "Teclado Mecanico",
+    "categoria": "Perifericos",
+    "precio": 800,
+    "descripcion": "Teclado bien chidoris ",
+    "stock":12
+  }  
+]
